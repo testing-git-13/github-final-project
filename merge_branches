@@ -1,0 +1,11 @@
+github-final-project on  bug-fix-typo 
+▶ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+github-final-project on  main 
+▶ git merge bug-fix-typo
+Updating 9942786..3108c69
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
