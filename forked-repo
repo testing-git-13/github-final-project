@@ -1,0 +1,14 @@
+curl -s https://api.github.com/repos/testing-git-13/mcino-Introduction-to-Git-and-GitHub | grep -E '"full_name"|"fork":| "parent":| "html_url":'
+  "full_name": "testing-git-13/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/testing-git-13",
+  "html_url": "https://github.com/testing-git-13/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false,
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false,
